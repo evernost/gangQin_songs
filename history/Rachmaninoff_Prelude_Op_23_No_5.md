@@ -1,0 +1,40 @@
+# _Rachmaninoff Prelude Op 23 No 5_
+
+## In a nutshell
+- Date of first practice: -
+- Sessions: 28
+- Total practice time: 11h55min33s
+- Average practice time: 0h25min17s
+- Score length: 1103
+- Fingered notes: 1550/3871 (progress: 40.0%)
+## Session history
+| Session | Date | Time | Duration |
+|---------|------|------|----------|
+| 28 | Saturday, May 02nd (2026) | 23:01 | 32min56s |
+| 27 | Saturday, May 02nd (2026) | 13:12 | 24min18s |
+| 26 | Friday, May 01st (2026) | 12:03 | 25min21s |
+| 25 | Saturday, April 25th (2026) | 15:58 | 30min19s |
+| 24 | Wednesday, April 22nd (2026) | 22:22 | 39min7s |
+| 23 | Saturday, April 18th (2026) | 16:50 | 28min56s |
+| 22 | Friday, April 17th (2026) | 23:54 | 45min9s |
+| 21 | Sunday, April 12th (2026) | 16:38 | 39min32s |
+| 20 | Sunday, April 12th (2026) | 16:28 | 8min48s |
+| 19 | Sunday, April 12th (2026) | 10:43 | 35min37s |
+| 18 | Thursday, April 09th (2026) | 23:25 | 29min54s |
+| 17 | Thursday, April 09th (2026) | 21:02 | 14min48s |
+| 16 | Wednesday, April 08th (2026) | 09:37 | 30min19s |
+| 15 | Tuesday, April 07th (2026) | 11:18 | 18min16s |
+| 14 | Sunday, April 05th (2026) | 12:29 | 11min32s |
+| 13 | Saturday, April 04th (2026) | 11:21 | 40min0s |
+| 12 | Sunday, March 29th (2026) | 16:31 | 26min48s |
+| 11 | Saturday, June 07th | 13:58 | 23min48s |
+| 10 | Saturday, June 07th | 13:35 | 7min35s |
+| 9 | Monday, January 13th | 22:30 | 36min42s |
+| 8 | Sunday, January 12th | 22:01 | 13min10s |
+| 7 | Sunday, January 12th | 21:49 | 11min45s |
+| 6 | Sunday, January 12th | 14:47 | 29min26s |
+| 5 | Friday, January 10th | 23:22 | 41min56s |
+| 4 | Friday, January 10th | 20:32 | 25min57s |
+| 3 | Sunday, January 05th | 19:23 | 20min59s |
+| 2 | Sunday, January 05th | 14:57 | 13min9s |
+| 1 | Saturday, January 04th | 00:54 | 9min26s |
