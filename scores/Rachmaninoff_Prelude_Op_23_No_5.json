@@ -2,7 +2,7 @@
   "nSnapshots": 31,
   "snapshots": [
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "CZCT2E.png",
       "index": 0,
       "displayName": "Capture 1",
@@ -389,7 +389,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "A76VH7.png",
       "index": 1,
       "displayName": "Capture 2",
@@ -776,7 +776,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "Y68636.png",
       "index": 2,
       "displayName": "Capture 3",
@@ -1067,7 +1067,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "33F9M6.png",
       "index": 3,
       "displayName": "Capture 4",
@@ -1454,7 +1454,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "2DDZ2W.png",
       "index": 4,
       "displayName": "Capture 5",
@@ -1877,7 +1877,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "QGWTV6.png",
       "index": 5,
       "displayName": "Capture 6",
@@ -2324,7 +2324,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "EEGW5W.png",
       "index": 6,
       "displayName": "Capture 7",
@@ -2771,7 +2771,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "UPKVVU.png",
       "index": 7,
       "displayName": "Capture 8",
@@ -3254,7 +3254,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "XFP652.png",
       "index": 8,
       "displayName": "Capture 9",
@@ -3665,7 +3665,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "ZBFUZ3.png",
       "index": 9,
       "displayName": "Capture 10",
@@ -3956,7 +3956,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "QPXFA7.png",
       "index": 10,
       "displayName": "Capture 11",
@@ -4241,7 +4241,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "YXRPN6.png",
       "index": 11,
       "displayName": "Capture 12",
@@ -4622,7 +4622,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "QAWE2D.png",
       "index": 12,
       "displayName": "Capture 13",
@@ -5009,7 +5009,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "AP5DFN.png",
       "index": 13,
       "displayName": "Capture 14",
@@ -5384,7 +5384,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "M3M7RF.png",
       "index": 14,
       "displayName": "Capture 15",
@@ -5753,7 +5753,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "ZXU7U6.png",
       "index": 15,
       "displayName": "Capture 16",
@@ -6146,7 +6146,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "PDP35E.png",
       "index": 16,
       "displayName": "Capture 17",
@@ -6545,7 +6545,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "2VQ7K6.png",
       "index": 17,
       "displayName": "Capture 18",
@@ -6926,7 +6926,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "Z5XHPP.png",
       "index": 18,
       "displayName": "Capture 19",
@@ -7223,7 +7223,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "TEB6XP.png",
       "index": 19,
       "displayName": "Capture 20",
@@ -7574,7 +7574,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "H8X5T7.png",
       "index": 20,
       "displayName": "Capture 21",
@@ -7925,7 +7925,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "5FN5KH.png",
       "index": 21,
       "displayName": "Capture 22",
@@ -8264,7 +8264,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "6CPNPH.png",
       "index": 22,
       "displayName": "Capture 23",
@@ -8621,7 +8621,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "3ERY9E.png",
       "index": 23,
       "displayName": "Capture 24",
@@ -9008,7 +9008,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "2BPCY4.png",
       "index": 24,
       "displayName": "Capture 25",
@@ -9455,7 +9455,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "8EK94T.png",
       "index": 25,
       "displayName": "Capture 26",
@@ -9974,7 +9974,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "R8TWPB.png",
       "index": 26,
       "displayName": "Capture 27",
@@ -10397,7 +10397,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "APZNP8.png",
       "index": 27,
       "displayName": "Capture 28",
@@ -10808,7 +10808,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "VCXPVD.png",
       "index": 28,
       "displayName": "Capture 29",
@@ -11177,7 +11177,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "GUQZDR.png",
       "index": 29,
       "displayName": "Capture 30",
@@ -11486,7 +11486,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Prelude_Op_23_No_5",
+      "dir": "./songs/scores/db__Rachmaninoff_Prelude_Op_23_No_5",
       "file": "D9HMY3.png",
       "index": 30,
       "displayName": "Capture 31",

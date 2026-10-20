@@ -2,7 +2,7 @@
   "nSnapshots": 21,
   "snapshots": [
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "4FD4HK.png",
       "index": 0,
       "displayName": "Capture 1",
@@ -131,7 +131,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "YX48EW.png",
       "index": 1,
       "displayName": "Capture 2",
@@ -386,7 +386,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "VQHNXX.png",
       "index": 2,
       "displayName": "Capture 3",
@@ -671,7 +671,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "PZQP2B.png",
       "index": 3,
       "displayName": "Capture 4",
@@ -1022,7 +1022,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "4CM9X9.png",
       "index": 4,
       "displayName": "Capture 5",
@@ -1391,7 +1391,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "ECWU8H.png",
       "index": 5,
       "displayName": "Capture 6",
@@ -1754,7 +1754,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "BVNA5E.png",
       "index": 6,
       "displayName": "Capture 7",
@@ -1774,7 +1774,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "9VVVP4.png",
       "index": 7,
       "displayName": "Capture 8",
@@ -1787,7 +1787,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "DGQKH9.png",
       "index": 8,
       "displayName": "Capture 9",
@@ -1800,7 +1800,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "3M4Q2V.png",
       "index": 9,
       "displayName": "Capture 10",
@@ -1813,7 +1813,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "734QZ9.png",
       "index": 10,
       "displayName": "Capture 11",
@@ -1826,7 +1826,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "TGHPGA.png",
       "index": 11,
       "displayName": "Capture 12",
@@ -1839,7 +1839,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "NCFT74.png",
       "index": 12,
       "displayName": "Capture 13",
@@ -1852,7 +1852,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "Y7TD3W.png",
       "index": 13,
       "displayName": "Capture 14",
@@ -1865,7 +1865,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "Z94386.png",
       "index": 14,
       "displayName": "Capture 15",
@@ -1878,7 +1878,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "6XQ5BW.png",
       "index": 15,
       "displayName": "Capture 16",
@@ -1891,7 +1891,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "XQDAEW.png",
       "index": 16,
       "displayName": "Capture 17",
@@ -1904,7 +1904,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "8X6EZR.png",
       "index": 17,
       "displayName": "Capture 18",
@@ -1917,7 +1917,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "3XBBNG.png",
       "index": 18,
       "displayName": "Capture 19",
@@ -1930,7 +1930,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "HAFAXW.png",
       "index": 19,
       "displayName": "Capture 20",
@@ -1943,7 +1943,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Scriabin_Impromptu_Op_12_No_2",
+      "dir": "./songs/scores/db__Scriabin_Impromptu_Op_12_No_2",
       "file": "9P9A9T.png",
       "index": 20,
       "displayName": "Capture 21",

@@ -2,7 +2,7 @@
   "nSnapshots": 3,
   "snapshots": [
     {
-      "dir": "./snaps/db__Erik_Satie_Priere",
+      "dir": "./songs/scores/db__Erik_Satie_Priere",
       "file": "ZAQ9KY.png",
       "index": 0,
       "displayName": "Capture 1",
@@ -185,7 +185,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Erik_Satie_Priere",
+      "dir": "./songs/scores/db__Erik_Satie_Priere",
       "file": "HAW9D3.png",
       "index": 1,
       "displayName": "Capture 2",
@@ -398,7 +398,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Erik_Satie_Priere",
+      "dir": "./songs/scores/db__Erik_Satie_Priere",
       "file": "PKUC52.png",
       "index": 2,
       "displayName": "Capture 3",

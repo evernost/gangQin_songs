@@ -2,7 +2,7 @@
   "nSnapshots": 12,
   "snapshots": [
     {
-      "dir": "./snaps/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
+      "dir": "./songs/scores/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
       "file": "DYKUWX.png",
       "index": 0,
       "displayName": "Capture 1",
@@ -287,7 +287,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
+      "dir": "./songs/scores/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
       "file": "ZWQQ4W.png",
       "index": 1,
       "displayName": "Capture 2",
@@ -572,7 +572,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
+      "dir": "./songs/scores/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
       "file": "T3B3W2.png",
       "index": 2,
       "displayName": "Capture 3",
@@ -863,7 +863,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
+      "dir": "./songs/scores/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
       "file": "CKHM82.png",
       "index": 3,
       "displayName": "Capture 4",
@@ -1148,7 +1148,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
+      "dir": "./songs/scores/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
       "file": "M6AAAP.png",
       "index": 4,
       "displayName": "Capture 5",
@@ -1433,7 +1433,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
+      "dir": "./songs/scores/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
       "file": "D66GD7.png",
       "index": 5,
       "displayName": "Capture 6",
@@ -1724,7 +1724,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
+      "dir": "./songs/scores/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
       "file": "2ED32Z.png",
       "index": 6,
       "displayName": "Capture 7",
@@ -2057,7 +2057,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
+      "dir": "./songs/scores/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
       "file": "M2PAZZ.png",
       "index": 7,
       "displayName": "Capture 8",
@@ -2276,7 +2276,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
+      "dir": "./songs/scores/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
       "file": "DHT823.png",
       "index": 8,
       "displayName": "Capture 9",
@@ -2459,7 +2459,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
+      "dir": "./songs/scores/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
       "file": "3HR652.png",
       "index": 9,
       "displayName": "Capture 10",
@@ -2750,7 +2750,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
+      "dir": "./songs/scores/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
       "file": "YRWRPV.png",
       "index": 10,
       "displayName": "Capture 11",
@@ -3047,7 +3047,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
+      "dir": "./songs/scores/db__Rachmaninoff_Morceau_de_fantaisie_Delmo",
       "file": "D9FAG5.png",
       "index": 11,
       "displayName": "Capture 12",

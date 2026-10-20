@@ -2,7 +2,7 @@
   "nSnapshots": 24,
   "snapshots": [
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "2U2V6W.png",
       "index": 0,
       "displayName": "Capture 1",
@@ -221,7 +221,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "F4NP4P.png",
       "index": 1,
       "displayName": "Capture 2",
@@ -446,7 +446,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "W9BWA8.png",
       "index": 2,
       "displayName": "Capture 3",
@@ -671,7 +671,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "ZUCRDQ.png",
       "index": 3,
       "displayName": "Capture 4",
@@ -698,7 +698,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "2YUHH9.png",
       "index": 4,
       "displayName": "Capture 5",
@@ -711,7 +711,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "YBBYMR.png",
       "index": 5,
       "displayName": "Capture 6",
@@ -724,7 +724,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "BQ6EM4.png",
       "index": 6,
       "displayName": "Capture 7",
@@ -737,7 +737,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "85PDAX.png",
       "index": 7,
       "displayName": "Capture 8",
@@ -750,7 +750,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "EFXXBW.png",
       "index": 8,
       "displayName": "Capture 9",
@@ -763,7 +763,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "XGHXNF.png",
       "index": 9,
       "displayName": "Capture 10",
@@ -776,7 +776,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "M6WNGK.png",
       "index": 10,
       "displayName": "Capture 11",
@@ -789,7 +789,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "6CB96E.png",
       "index": 11,
       "displayName": "Capture 12",
@@ -802,7 +802,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "3NY55N.png",
       "index": 12,
       "displayName": "Capture 13",
@@ -815,7 +815,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "M2A4NC.png",
       "index": 13,
       "displayName": "Capture 14",
@@ -828,7 +828,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "2C7QZA.png",
       "index": 14,
       "displayName": "Capture 15",
@@ -841,7 +841,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "GRTATF.png",
       "index": 15,
       "displayName": "Capture 16",
@@ -854,7 +854,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "X9AMMH.png",
       "index": 16,
       "displayName": "Capture 17",
@@ -867,7 +867,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "9B32UF.png",
       "index": 17,
       "displayName": "Capture 18",
@@ -880,7 +880,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "D399NF.png",
       "index": 18,
       "displayName": "Capture 19",
@@ -893,7 +893,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "C3BU3N.png",
       "index": 19,
       "displayName": "Capture 20",
@@ -906,7 +906,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "9KZA2K.png",
       "index": 20,
       "displayName": "Capture 21",
@@ -919,7 +919,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "Z6FXFM.png",
       "index": 21,
       "displayName": "Capture 22",
@@ -932,7 +932,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "7976DC.png",
       "index": 22,
       "displayName": "Capture 23",
@@ -945,7 +945,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
+      "dir": "./songs/scores/db__Ravel_Pavane_pour_une_infante_defunte_M_19",
       "file": "GB33R5.png",
       "index": 23,
       "displayName": "Capture 24",

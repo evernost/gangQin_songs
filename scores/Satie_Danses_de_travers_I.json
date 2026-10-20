@@ -2,7 +2,7 @@
   "nSnapshots": 11,
   "snapshots": [
     {
-      "dir": "./snaps/db__Satie_Danses_de_travers_I",
+      "dir": "./songs/scores/db__Satie_Danses_de_travers_I",
       "file": "MGXRAC.png",
       "index": 0,
       "displayName": "Capture 1",
@@ -185,7 +185,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Satie_Danses_de_travers_I",
+      "dir": "./songs/scores/db__Satie_Danses_de_travers_I",
       "file": "B6486K.png",
       "index": 1,
       "displayName": "Capture 2",
@@ -434,7 +434,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Satie_Danses_de_travers_I",
+      "dir": "./songs/scores/db__Satie_Danses_de_travers_I",
       "file": "7VGUMF.png",
       "index": 2,
       "displayName": "Capture 3",
@@ -605,7 +605,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Satie_Danses_de_travers_I",
+      "dir": "./songs/scores/db__Satie_Danses_de_travers_I",
       "file": "A4PAZF.png",
       "index": 3,
       "displayName": "Capture 4",
@@ -637,7 +637,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Satie_Danses_de_travers_I",
+      "dir": "./songs/scores/db__Satie_Danses_de_travers_I",
       "file": "VXWR37.png",
       "index": 4,
       "displayName": "Capture 5",
@@ -650,7 +650,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Satie_Danses_de_travers_I",
+      "dir": "./songs/scores/db__Satie_Danses_de_travers_I",
       "file": "WCAG93.png",
       "index": 5,
       "displayName": "Capture 6",
@@ -663,7 +663,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Satie_Danses_de_travers_I",
+      "dir": "./songs/scores/db__Satie_Danses_de_travers_I",
       "file": "PBTHCR.png",
       "index": 6,
       "displayName": "Capture 7",
@@ -676,7 +676,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Satie_Danses_de_travers_I",
+      "dir": "./songs/scores/db__Satie_Danses_de_travers_I",
       "file": "YCRV4F.png",
       "index": 7,
       "displayName": "Capture 8",
@@ -689,7 +689,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Satie_Danses_de_travers_I",
+      "dir": "./songs/scores/db__Satie_Danses_de_travers_I",
       "file": "6M426D.png",
       "index": 8,
       "displayName": "Capture 9",
@@ -702,7 +702,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Satie_Danses_de_travers_I",
+      "dir": "./songs/scores/db__Satie_Danses_de_travers_I",
       "file": "FG7UCF.png",
       "index": 9,
       "displayName": "Capture 10",
@@ -715,7 +715,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Satie_Danses_de_travers_I",
+      "dir": "./songs/scores/db__Satie_Danses_de_travers_I",
       "file": "NVHPB7.png",
       "index": 10,
       "displayName": "Capture 11",

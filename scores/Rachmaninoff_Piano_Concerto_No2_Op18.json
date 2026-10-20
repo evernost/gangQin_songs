@@ -2,7 +2,7 @@
   "nSnapshots": 87,
   "snapshots": [
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "X95ZQE.png",
       "index": 0,
       "displayName": "Capture 1",
@@ -191,7 +191,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "PEVWQE.png",
       "index": 1,
       "displayName": "Capture 2",
@@ -506,7 +506,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "W7MC3V.png",
       "index": 2,
       "displayName": "Capture 3",
@@ -839,7 +839,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "G49YYE.png",
       "index": 3,
       "displayName": "Capture 4",
@@ -1148,7 +1148,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "5ZGARD.png",
       "index": 4,
       "displayName": "Capture 5",
@@ -1475,7 +1475,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "T8GRQY.png",
       "index": 5,
       "displayName": "Capture 6",
@@ -1808,7 +1808,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "A4PFF2.png",
       "index": 6,
       "displayName": "Capture 7",
@@ -2105,7 +2105,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "W3WFWB.png",
       "index": 7,
       "displayName": "Capture 8",
@@ -2444,7 +2444,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "4B52DB.png",
       "index": 8,
       "displayName": "Capture 9",
@@ -2519,7 +2519,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "Q8MY53.png",
       "index": 9,
       "displayName": "Capture 10",
@@ -2532,7 +2532,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "5EGFAT.png",
       "index": 10,
       "displayName": "Capture 11",
@@ -2545,7 +2545,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "FNP3RV.png",
       "index": 11,
       "displayName": "Capture 12",
@@ -2558,7 +2558,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "4HYKXP.png",
       "index": 12,
       "displayName": "Capture 13",
@@ -2571,7 +2571,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "EEZHHH.png",
       "index": 13,
       "displayName": "Capture 14",
@@ -2584,7 +2584,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "BKP8AY.png",
       "index": 14,
       "displayName": "Capture 15",
@@ -2953,7 +2953,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "FUW23B.png",
       "index": 15,
       "displayName": "Capture 16",
@@ -3346,7 +3346,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "7Y3F6P.png",
       "index": 16,
       "displayName": "Capture 17",
@@ -3871,7 +3871,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "DHBG3X.png",
       "index": 17,
       "displayName": "Capture 18",
@@ -4402,7 +4402,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "6G6XYQ.png",
       "index": 18,
       "displayName": "Capture 19",
@@ -4501,7 +4501,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "D3NCN6.png",
       "index": 19,
       "displayName": "Capture 20",
@@ -4648,7 +4648,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "5W3P88.png",
       "index": 20,
       "displayName": "Capture 21",
@@ -5059,7 +5059,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "UA58U8.png",
       "index": 21,
       "displayName": "Capture 22",
@@ -5470,7 +5470,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "8H4FAD.png",
       "index": 22,
       "displayName": "Capture 23",
@@ -5875,7 +5875,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "PNWUHW.png",
       "index": 23,
       "displayName": "Capture 24",
@@ -6250,7 +6250,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "3TKYW3.png",
       "index": 24,
       "displayName": "Capture 25",
@@ -6685,7 +6685,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "M38DUV.png",
       "index": 25,
       "displayName": "Capture 26",
@@ -7270,7 +7270,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "8ZVMMT.png",
       "index": 26,
       "displayName": "Capture 27",
@@ -7843,7 +7843,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "NWDUT2.png",
       "index": 27,
       "displayName": "Capture 28",
@@ -8218,7 +8218,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "92N573.png",
       "index": 28,
       "displayName": "Capture 29",
@@ -8629,7 +8629,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "8KZ5VT.png",
       "index": 29,
       "displayName": "Capture 30",
@@ -9064,7 +9064,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "G5QTW8.png",
       "index": 30,
       "displayName": "Capture 31",
@@ -9499,7 +9499,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "DGKYQV.png",
       "index": 31,
       "displayName": "Capture 32",
@@ -10084,7 +10084,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "DB3GPX.png",
       "index": 32,
       "displayName": "Capture 33",
@@ -10501,7 +10501,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "AMP373.png",
       "index": 33,
       "displayName": "Capture 34",
@@ -10900,7 +10900,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "3KYMP6.png",
       "index": 34,
       "displayName": "Capture 35",
@@ -11227,7 +11227,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "B64M28.png",
       "index": 35,
       "displayName": "Capture 36",
@@ -11572,7 +11572,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "5KXBQV.png",
       "index": 36,
       "displayName": "Capture 37",
@@ -11585,7 +11585,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "KCGM7X.png",
       "index": 37,
       "displayName": "Capture 38",
@@ -11598,7 +11598,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "5FT9AB.png",
       "index": 38,
       "displayName": "Capture 39",
@@ -11611,7 +11611,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "CZDF73.png",
       "index": 39,
       "displayName": "Capture 40",
@@ -11932,7 +11932,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "ZC559X.png",
       "index": 40,
       "displayName": "Capture 41",
@@ -12355,7 +12355,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "HA74BD.png",
       "index": 41,
       "displayName": "Capture 42",
@@ -12910,7 +12910,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "XWUTYB.png",
       "index": 42,
       "displayName": "Capture 43",
@@ -13345,7 +13345,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "T7HQTA.png",
       "index": 43,
       "displayName": "Capture 44",
@@ -13606,7 +13606,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "BXXC74.png",
       "index": 44,
       "displayName": "Capture 45",
@@ -13897,7 +13897,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "TG4FWW.png",
       "index": 45,
       "displayName": "Capture 46",
@@ -14194,7 +14194,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "GYZUZR.png",
       "index": 46,
       "displayName": "Capture 47",
@@ -14497,7 +14497,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "AHGR77.png",
       "index": 47,
       "displayName": "Capture 48",
@@ -14800,7 +14800,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "EE7MA7.png",
       "index": 48,
       "displayName": "Capture 49",
@@ -15049,7 +15049,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "ZURUW7.png",
       "index": 49,
       "displayName": "Capture 50",
@@ -15298,7 +15298,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "6BNXMT.png",
       "index": 50,
       "displayName": "Capture 51",
@@ -15547,7 +15547,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "C6FVPV.png",
       "index": 51,
       "displayName": "Capture 52",
@@ -15874,7 +15874,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "T6FXW3.png",
       "index": 52,
       "displayName": "Capture 53",
@@ -16249,7 +16249,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "7DPNFF.png",
       "index": 53,
       "displayName": "Capture 54",
@@ -16576,7 +16576,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "KDTUM7.png",
       "index": 54,
       "displayName": "Capture 55",
@@ -16927,7 +16927,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "PXR2ZH.png",
       "index": 55,
       "displayName": "Capture 56",
@@ -17206,7 +17206,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "AAY592.png",
       "index": 56,
       "displayName": "Capture 57",
@@ -17509,7 +17509,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "DDBMC4.png",
       "index": 57,
       "displayName": "Capture 58",
@@ -17980,7 +17980,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "DZTQU5.png",
       "index": 58,
       "displayName": "Capture 59",
@@ -18391,7 +18391,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "Q7YAQ6.png",
       "index": 59,
       "displayName": "Capture 60",
@@ -18766,7 +18766,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "4VPBP9.png",
       "index": 60,
       "displayName": "Capture 61",
@@ -19135,7 +19135,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "BRZTF2.png",
       "index": 61,
       "displayName": "Capture 62",
@@ -19498,7 +19498,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "FG4AUW.png",
       "index": 62,
       "displayName": "Capture 63",
@@ -19843,7 +19843,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "Z2PHAE.png",
       "index": 63,
       "displayName": "Capture 64",
@@ -20236,7 +20236,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "CHFADK.png",
       "index": 64,
       "displayName": "Capture 65",
@@ -20629,7 +20629,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "UVBX7A.png",
       "index": 65,
       "displayName": "Capture 66",
@@ -20956,7 +20956,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "M26ZQE.png",
       "index": 66,
       "displayName": "Capture 67",
@@ -21192,7 +21192,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "342B7M.png",
       "index": 67,
       "displayName": "Capture 68",
@@ -21435,7 +21435,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "RB3XMU.png",
       "index": 68,
       "displayName": "Capture 69",
@@ -21762,7 +21762,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "C294CC.png",
       "index": 69,
       "displayName": "Capture 70",
@@ -21789,7 +21789,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "WQUWTR.png",
       "index": 70,
       "displayName": "Capture 71",
@@ -21802,7 +21802,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "F4AH6U.png",
       "index": 71,
       "displayName": "Capture 72",
@@ -21961,7 +21961,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "HTZ5N9.png",
       "index": 72,
       "displayName": "Capture 73",
@@ -22264,7 +22264,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "X9ECDT.png",
       "index": 73,
       "displayName": "Capture 74",
@@ -22759,7 +22759,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "9WQETE.png",
       "index": 74,
       "displayName": "Capture 75",
@@ -23248,7 +23248,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "BZ3KV4.png",
       "index": 75,
       "displayName": "Capture 76",
@@ -23509,7 +23509,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "GX6X6M.png",
       "index": 76,
       "displayName": "Capture 77",
@@ -23800,7 +23800,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "PKQF6N.png",
       "index": 77,
       "displayName": "Capture 78",
@@ -24024,7 +24024,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "39PCF8.png",
       "index": 78,
       "displayName": "Capture 79",
@@ -24153,7 +24153,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "KP4BGC.png",
       "index": 79,
       "displayName": "Capture 80",
@@ -24173,7 +24173,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "NFY7VK.png",
       "index": 80,
       "displayName": "Capture 81",
@@ -24186,7 +24186,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "Y697EK.png",
       "index": 81,
       "displayName": "Capture 82",
@@ -24199,7 +24199,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "VEGHBN.png",
       "index": 82,
       "displayName": "Capture 83",
@@ -24212,7 +24212,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "V49FNZ.png",
       "index": 83,
       "displayName": "Capture 84",
@@ -24225,7 +24225,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "QMAWRV.png",
       "index": 84,
       "displayName": "Capture 85",
@@ -24238,7 +24238,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "7BXB5U.png",
       "index": 85,
       "displayName": "Capture 86",
@@ -24251,7 +24251,7 @@
       "fileMissing": false
     },
     {
-      "dir": "./snaps/db__Rachmaninoff_Piano_Concerto_No2_Op18",
+      "dir": "./songs/scores/db__Rachmaninoff_Piano_Concerto_No2_Op18",
       "file": "3W4NKF.png",
       "index": 86,
       "displayName": "Capture 87",
